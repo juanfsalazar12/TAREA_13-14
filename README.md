@@ -25,7 +25,11 @@ Objetivos Especifícos
 
 Tema 13: Inductores 
 
+![image](https://user-images.githubusercontent.com/116821649/221096531-6da0233d-2d18-43d6-81ef-4d31fc90ba1c.png)
+
 Tema 14: Transformadores
+
+![image](https://user-images.githubusercontent.com/116821649/221096550-84b15587-1c20-4761-9d93-9c487b9c405a.png)
 
 * Resolucion de los ejercicios
 
@@ -99,3 +103,18 @@ de 5 kHz entre las terminales.
 
 ![image](https://user-images.githubusercontent.com/116821649/217837637-d8aadf24-cbbe-4461-8603-03ed236bd7d4.png)
 
+Tema 14: Transformadores
+
+2. Determine el coeficiente de acoplamiento cuando:
+
+
+
+* Video
+
+* Conclusiones
+
+1. Llegamos a la conclusión de que el voltaje alterno cambia su polaridad con rapidéz, además, para poder visualizar las gráficas de ondas en un circuito, usamos el osciloscopio debido a que al usarlo podemos ver la traza de la señal eléctrica medida.
+
+* Bibliografia
+
+(Floyd,T)(2007). Principios de circuitos eléctricos 8va edición. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
