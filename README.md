@@ -107,7 +107,9 @@ Tema 14: Transformadores
 
 2. Determine el coeficiente de acoplamiento cuando:
 
+![image](https://user-images.githubusercontent.com/116821649/221752384-64fe0f04-e733-4334-a0dd-c89c1b177386.png)
 
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
 
 * Video
 
